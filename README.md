@@ -9,7 +9,7 @@ edgeEngine for Raspbian Platform
 4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. *Untar package (ex:)
 ```
-tar xvf edgeEngine-raspbian-setup-v2.3.1.tar
+tar xvf edgeEngine-SE-Raspbian-ARM-v3.0.0.tar
 ```
 6. Run start script to start edgeEngine
 ```
